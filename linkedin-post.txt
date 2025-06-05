@@ -1,0 +1,24 @@
+🚀 Excited to share my latest project: A Blockchain-Powered Smart Calculator dApp! 
+
+I've developed a modern decentralized calculator application that brings the power of Web3 to everyday calculations. This project demonstrates how blockchain technology can be applied to practical, real-world applications.
+
+🔹 Key Features:
+• Seamless MetaMask wallet integration
+• Basic arithmetic operations (addition, subtraction, multiplication, division)
+• Advanced scientific functions (power calculations, square roots)
+• Beautiful, responsive UI with dark/light mode
+• On-chain computation verification
+
+🛠️ Built with:
+• Next.js 15 & React 19
+• TypeScript
+• Tailwind CSS
+• Radix UI Components
+• Ethers.js for Web3 integration
+• Solidity smart contracts
+
+This project showcases the intersection of modern web development and blockchain technology, creating a user-friendly interface for performing calculations on the Ethereum blockchain.
+
+Check it out here: [Simple Calculator Here](link-to-contract-repo)
+
+#Web3 #Blockchain #NextJS #React #TypeScript #SmartContracts #DApp #WebDevelopment #Ethereum #Crypto #TechInnovation 
