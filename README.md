@@ -116,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🔗 Links
 
-- Website:[Simple Calculator Here](link-to-contract-repo)
+- Website:[Simple Calculator Here](https://smart-calculator-d-app.vercel.app/)
 ---
 
 Built with ❤️ using Next.js and Web3 technologies 
